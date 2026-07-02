@@ -1,7 +1,7 @@
 # 🎮 CodeAlpha Hangman Game
 
 ## 📌 Project Description
-This is a Python-based Hangman Game developed as part of the CodeAlpha Python Programming Internship.
+A Python-based Hangman Game with clue system, score tracking, lives counter, and play-again feature. Developed for the CodeAlpha Python Programming Internship.
 
 ## ✨ Features
 - Welcome Screen
